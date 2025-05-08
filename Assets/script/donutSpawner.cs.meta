@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84c16e5d4388ee74cb28189b011771d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nomaldonut: {fileID: 1590680551407116151, guid: cb88a7fddccd21041a064ae026c6c97a, type: 3}
+  - dirtydonut: {fileID: 5397800656542358723, guid: 6f4d00f3944b3ea45bff0af07a537811, type: 3}
+  - plusdonut: {fileID: 8607361370346275423, guid: de293fa50b2278c46a591d8a5d8157c0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
